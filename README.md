@@ -7,14 +7,14 @@
 mkdir simple-java-docker && cd simple-java-docker/
 ```
 ---
-:file_folder:List This Dir.
-```bash
-ls -ltrh
-```
----
 ### Get GitHub Repo:
 ```bash
 git clone https://github.com/LondheShubham153/simple-java-docker.git
+```
+---
+:file_folder:List This Dir.
+```bash
+ls -ltrh
 ```
 ---
 :whale:Make Docker File:
