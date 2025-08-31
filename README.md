@@ -18,7 +18,7 @@ ls -ltrh
 ```
 ---
 :whale:Make Docker File:
-- **vim Dockerfile** →→ *Copy & Compile k liye sirf Main.java chahiye*
+- **vim Dockerfile** →→ `Copy & Compile k liye sirf Main.java chahiye`
 ```bash
 # stable official Java runtime base image
 FROM openjdk:17-jdk-alpine
@@ -40,6 +40,7 @@ RUN javac Main.java
 # Run the Java application when the container starts
 CMD ["java", "Main"]
 ```
+`ESC` `wq:` Enter
 - docker build -t java-app .
 
 > Run as Cont 📦
