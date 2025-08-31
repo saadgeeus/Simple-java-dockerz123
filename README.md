@@ -2,23 +2,23 @@
 ---
 A simple java app that runs on docker 
 ---
-'''bash
+```bash
 git clone https://github.com/LondheShubham153/simple-java-docker.git
-'''
+```
 ----
 Change Directory:
-'''bash
+```bash
 cd simple-java-docker/
-'''
+```
 List This Dir.
-'''bash
+```bash
 ls -ll
-'''
+```
 ---
 Make Docker File:
-- **vim Dockerfile**      "Copy & Compile k liye sirf Main.java chahiye"
+- **vim Dockerfile** →→"Copy & Compile k liye sirf Main.java chahiye"
 - docker build -t java-app .
 Run as Cont:
-'''bash
+```bash
 docker run java-app
-'''
+```
