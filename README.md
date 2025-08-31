@@ -23,8 +23,14 @@ Make Docker File:
 ```bash
 docker run java-app
 ```
-📊 Example Table
-Feature	Status
-Authentication	✅
-API Support	✅
-Dark Mode	❌
+## 📊 Feature Comparison
+
+| Feature           | Status | Notes                              |
+|-------------------|:------:|-------------------------------------|
+| 🔑 Authentication | ✅     | Supports login & JWT tokens         |
+| 🌐 API Support    | ✅     | REST + GraphQL                      |
+| 🎨 Dark Mode      | ❌     | Planned for next release            |
+| 📱 Mobile Friendly| ✅     | Fully responsive design             |
+| 🛠️ Customization | ⚡     | Easy to configure with settings     |
+| 🔔 Notifications  | ✅     | Email + Push                        |
+
