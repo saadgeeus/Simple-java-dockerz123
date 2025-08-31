@@ -49,20 +49,3 @@ docker build -t java-app .
 ```bash
 docker run java-app
 ```
-
-## 📂 Project Structure
-css
-Copy code
-```
-my-project/
-├── src/
-│   ├── main.py
-│   ├── utils.py
-│   └── __init__.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── README.md
-├── requirements.txt
-└── README.md
-```
