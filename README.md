@@ -46,7 +46,7 @@ CMD ["java", "Main"]
 docker build -t java-app .
 ```
 
-### > Run as Cont 📦
+> ### Run as Cont 📦
 ```bash
 docker run java-app
 ```
