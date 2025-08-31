@@ -27,15 +27,5 @@ docker run java-app
 
 | Feature           | Status | Notes                              |
 |-------------------|:------:|-------------------------------------|
-| 🔑 Authentication | ✅     | Supports login & JWT tokens         |
-| 🌐 API Support    | ✅     | REST + GraphQL                      |
-| 🎨 Dark Mode      | ❌     | Planned for next release            |
-| 📱 Mobile Friendly| ✅     | Fully responsive design             |
-| 🛠️ Customization | ⚡     | Easy to configure with settings     |
-| 🔔 Notifications  | ✅     | Email + Push                        |
-
-| Name   | Age | Country   |
-|:-------|:---:|----------:|
-| Ali    | 25  | Pakistan  |
-| Sara   | 30  | USA       |
-| John   | 28  | UK        |
+| 🔑 Authe | ✅     | Support and re       |
+| 🌐 API do    | ✅     | REST + Grran                      |
