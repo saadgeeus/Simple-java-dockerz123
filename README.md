@@ -53,6 +53,7 @@ docker run java-app
 ## 📂 Project Structure
 css
 Copy code
+```
 my-project/
 ├── src/
 │   ├── main.py
@@ -64,3 +65,4 @@ my-project/
 │   └── README.md
 ├── requirements.txt
 └── README.md
+```
