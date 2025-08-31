@@ -41,7 +41,10 @@ RUN javac Main.java
 CMD ["java", "Main"]
 ```
 `ESC` `wq:` Enter
-- docker build -t java-app .
+## Build An Dockerfile :whale: 
+```bash
+docker build -t java-app .
+```
 
 > Run as Cont 📦
 ```bash
