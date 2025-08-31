@@ -1,6 +1,6 @@
-:rocket:# simple-java-docker:rocket:
+:rocket: # simple-java-docker:rocket:
 ---
-##A simple java app that runs on docker## 
+## A simple java app that runs on docker
 ---
 ```bash
 git clone https://github.com/LondheShubham153/simple-java-docker.git
