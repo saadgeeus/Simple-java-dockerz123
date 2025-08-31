@@ -18,7 +18,7 @@ ls -ltrh
 ```
 ---
 ### :whale:Make Docker File:
-- **vim Dockerfile** →→ `Copy & Compile k liye sirf Main.java chahiye`
+- **vim Dockerfile** →→ `For Copy & Compile We Need Only Main.java File`
 ```bash
 # stable official Java runtime base image
 FROM openjdk:17-jdk-alpine
