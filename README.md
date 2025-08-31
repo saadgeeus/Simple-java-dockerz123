@@ -1,4 +1,4 @@
-:rocket:# simple-java-docker:rocket:
+# :rocket: simple-java-docker:rocket:
 ---
 ## A simple java app that runs on docker
 ---
