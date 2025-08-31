@@ -7,7 +7,7 @@
 mkdir simple-java-docker && cd simple-java-docker/
 ```
 ---
-## Get Clone Clone This Repo From GitHub, Below Link:
+## Get Clone This Repo From GitHub, Below Link:
 
 ⭐ [Clone GitHub Repo](https://github.com/LondheShubham153/simple-java-docker.git)
 ---
