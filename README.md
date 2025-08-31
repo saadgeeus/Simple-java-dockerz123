@@ -24,7 +24,7 @@ ls -ltrh
 FROM openjdk:17-jdk-alpine
 
 # metadata
-LABEL maintainer="saadgeeus123@gmail.com"
+LABEL maintainer="example-mail@gmail.com"
 LABEL version="1.0"
 LABEL description="A simple Java application"
 
