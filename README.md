@@ -34,3 +34,8 @@ docker run java-app
 | 🛠️ Customization | ⚡     | Easy to configure with settings     |
 | 🔔 Notifications  | ✅     | Email + Push                        |
 
+| Name   | Age | Country   |
+|:-------|:---:|----------:|
+| Ali    | 25  | Pakistan  |
+| Sara   | 30  | USA       |
+| John   | 28  | UK        |
