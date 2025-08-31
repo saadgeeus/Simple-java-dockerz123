@@ -23,3 +23,8 @@ Make Docker File:
 ```bash
 docker run java-app
 ```
+📊 Example Table
+Feature	Status
+Authentication	✅
+API Support	✅
+Dark Mode	❌
