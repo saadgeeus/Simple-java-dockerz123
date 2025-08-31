@@ -12,7 +12,7 @@ cd simple-java-docker/
 ```
 :file_folder:List This Dir.
 ```bash
-ls -ll
+ls -ltrh
 ```
 ---
 :whale:Make Docker File:
