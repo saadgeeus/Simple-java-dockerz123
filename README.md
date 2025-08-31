@@ -8,9 +8,8 @@ mkdir simple-java-docker && cd simple-java-docker/
 ```
 ---
 ### Get GitHub Repo:
-```bash
-git clone https://github.com/LondheShubham153/simple-java-docker.git
-```
+
+⭐ [My GitHub Repo](git clone https://github.com/LondheShubham153/simple-java-docker.git)
 ---
 ### :file_folder:List This Dir.
 ```bash
