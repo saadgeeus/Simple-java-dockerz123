@@ -17,8 +17,8 @@ ls -ll
 ---
 Make Docker File:
 - **vim Dockerfile** →→"Copy & Compile k liye sirf Main.java chahiye"
-- docker build -t java-app .␣␣
-`Run as Cont:`
+- docker build -t java-app .
+- `Run as Cont:`
 ```bash
 docker run java-app
 ```
