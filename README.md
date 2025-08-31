@@ -1,21 +1,21 @@
-# simple-java-docker
+:rocket:# simple-java-docker:rocket:
 ---
-A simple java app that runs on docker 
+##A simple java app that runs on docker## 
 ---
 ```bash
 git clone https://github.com/LondheShubham153/simple-java-docker.git
 ```
 ----
-Change Directory:
+:file_folder:Change Directory:
 ```bash
 cd simple-java-docker/
 ```
-List This Dir.
+:file_folder:List This Dir.
 ```bash
 ls -ll
 ```
 ---
-Make Docker File:
+:whale:Make Docker File:
 - **vim Dockerfile** →→"Copy & Compile k liye sirf Main.java chahiye"
 - docker build -t java-app .
 
