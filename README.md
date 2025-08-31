@@ -23,9 +23,4 @@ Make Docker File:
 ```bash
 docker run java-app
 ```
-## 📊 Feature Comparison
 
-| Feature           | Status | Notes                              |
-|-------------------|:------:|-------------------------------------|
-| 🔑 Authe | ✅     | Support and re       |
-| 🌐 API do    | ✅     | REST + Grran                      |
